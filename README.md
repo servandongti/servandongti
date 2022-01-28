@@ -3,23 +3,12 @@
 <img align='right' src='https://github.com/servandongti/servandongti/blob/main/programmer.gif' width='215' height='148'> 
 
 <div align="left">
-Hi, my name is Servando Negrete, a second year software technology engineering student. I like spending my time working on projects, learning new programming languages, participating in hackathons and enjoy bringing ideas to life in the browser. I love collaborating with new people and working on different projects at the same time because in each of them you learn more about programming languages and from them also by sharing ideas it makes you prepare to always be ready for change and know how to solve it correctly .
+Hi, my name is Servando Negrete. I am a 2<sup>nd</sup> Year Software Technology Engineering Student. I like spending my time working on projects, learning new programming languages, participating in hackathons and enjoy bringing ideas to life in the browser. I love collaborating with new people and working on different projects at the same time because in each of them you learn more about programming languages and from them also by sharing ideas it makes you prepare to always be ready for change and know how to solve it correctly .
 </div>
 
 ## The developer side of me... 
 ```javascript
-  const servando = {
-	pronouns: "he" | "him",
-	code: [Python, JavaScript, TypeScript, C, C++],
-	framework: [React Js, Next Js],
-	devOps: [Docker, Kubernetes, Prometheus],
-	tools: [Jest, Figma, Tailwind CSS],
-	techCommunities: {
-		studentAmbassador: "Microsoft Learn Student Ambassador",
-		openSource: "MLH Prep Fellow Fall'21"
-	},
-	askMeAbout: ["Web Development", "DevOps", "Machine Learning"]
-}
+  
 ```
 
 <div align="center" valign="top"><br>
