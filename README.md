@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=hello,+I'm+Servando)
 
-<img align='right' src='https://github.com/servandongti/servandongti/blob/main/programmerop.gif' width='275' height='148'> 
+<img align='right' src='https://github.com/servandongti/servandongti/blob/main/programmer1.gif' width='275' height='148'> 
 
 <div align="left">
 Hi, my name is Servando Negrete. I'm a 2<sup>nd</sup> Year Software Technology Engineering Student. I like spending my time working on projects, learning new programming languages, participating in hackathons and enjoy bringing ideas to life in the browser. I love collaborating with new people and working on different projects at the same time because in each of them you learn more about programming languages and from them also by sharing ideas it makes you prepare to always be ready for change and know how to solve it correctly .
