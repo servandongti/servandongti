@@ -6,11 +6,14 @@
 Hi, my name is Servando Negrete. I'm a 2<sup>nd</sup> Year Software Technology Engineering Student. I like spending my time working on projects, learning new programming languages, participating in hackathons and enjoy bringing ideas to life in the browser. I love collaborating with new people and working on different projects at the same time because in each of them you learn more about programming languages and from them also by sharing ideas it makes you prepare to always be ready for change and know how to solve it correctly .
 </div>
 
-## The developer side of me... 
+## 
 ```javascript
-  
+if coding:
+  headphones = True
+  focus = True
+  conversation = none
 ```
-
+## 
 <div align="center" valign="top"><br>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
@@ -25,8 +28,31 @@ Hi, my name is Servando Negrete. I'm a 2<sup>nd</sup> Year Software Technology E
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div><br>
 
+<h2>Github Stats 📈:</h2>
+
+<p align="center">
+<img height="180" width="49%" src="https://github-readme-stats.vercel.app/api?username=servandongti&&show_icons=true&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a" />
+<img height="180" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=servandongti&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a&layout=compact&hide=css" />
+</p>
+
+<details align="center">
+  <summary>GitHub Activity Graph 📈</summary>
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=servandongti&theme=xcode" />
+</p>
+</details>
+
+<details align="center">
+  <summary>GitHub Trophies 🏆</summary>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=servandongti&column=4&margin-w=5&margin-h=5&theme=darkhub"/>
+  </a>
+</p>
+</details>
+
 <div align="center">
   
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
 </div>
