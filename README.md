@@ -8,10 +8,15 @@ Hi, my name is Servando Negrete. I'm a 2<sup>nd</sup> Year Software Technology E
 
 ## 
 ```javascript
-if coding:
-  headphones = True
-  focus = True
-  conversation = none
+class Coder(BaseHuman):
+    
+    def _init_(self):
+      coffee.strength++
+      env.update
+      env.theme = DARK
+      
+    def day(self):
+    
 ```
 ## 
 <div align="center" valign="top"><br>
@@ -64,3 +69,5 @@ if coding:
 ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+
+<p><code><img height="20" src="https://komarev.com/ghpvc/?username=servandongti&color=blue"></code></p>
