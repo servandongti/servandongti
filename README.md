@@ -7,16 +7,18 @@ Hi, my name is Servando Negrete. I'm a 2<sup>nd</sup> Year Software Technology E
 </div>
 
 ## 
-```javascript
-class Coder(BaseHuman):
+```python
+def is_cool(name):
+    return(name == "I")
     
-    def _init_(self):
-      coffee.strength++
-      env.update
-      env.theme = DARK
-      
-    def day(self):
-    
+def person(name):
+    if is_cool(name):
+        print name, "am cool."
+    else:
+        print name, "are not cool."
+        
+person("I")
+person("You")
 ```
 ## 
 <div align="center" valign="top"><br>
