@@ -22,7 +22,7 @@ person("You")
 ```
 ## 
 <div align="center" valign="top"><br>
-  <img align="center" alt="Nextjs" height="30" width="40" src="https://github.com/servandongti/servandongti/blob/main/nextjss.png">
+  <img align="center" alt="Nextjs" height="30" width="40" src="https://github.com/servandongti/servandongti/blob/main/njs.png">
   <img align="center" alt="Tailwindcss" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
