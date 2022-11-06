@@ -22,7 +22,6 @@ person("You")
 ```
 ## 
 <div align="center" valign="top"><br>
-  <img align="center" alt="Python" height="30" width="40" src="[https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg](https://www.google.com/search?q=next+js+icon+github&rlz=1C1ALOY_esMX982MX982&sxsrf=ALiCzsbiSC6xuh_izi5uygvp691Eic2mbg:1667767612212&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj33d_Atpr7AhWwJEQIHcFWAqoQ_AUoAXoECAEQAw&biw=1920&bih=929&dpr=1#imgrc=c9mZKH8O855nYM)">
   <img align="center" alt="Tailwindcss" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
