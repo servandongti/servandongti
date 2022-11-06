@@ -40,7 +40,6 @@ person("You")
   <img align="center" alt="Firebse" height="30" width="40" src="https://github.com/servandongti/servandongti/blob/main/firebase.png">
   <img align="center" alt="Supabse" height="30" width="40" src="https://github.com/servandongti/servandongti/blob/main/supabase.png">
   <img align="center" alt="Aws" height="30" width="40" src="https://github.com/servandongti/servandongti/blob/main/aws.png">
-  <img align="center" alt="Aws" height="30" width="40" src="https://github.com/servandongti/servandongti/blob/main/aws.png">
   <img align="center" alt="Azure" height="30" width="40" src="https://github.com/servandongti/servandongti/blob/main/azure.png">
   <img align="center" alt="Google" height="30" width="40" src="https://github.com/servandongti/servandongti/blob/main/google%20cloud.png">
 </div><br>
