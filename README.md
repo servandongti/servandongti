@@ -22,7 +22,7 @@ person("You")
 ```
 ## 
 <div align="center" valign="top"><br>
-  <img align="center" alt="Nextjs" height="30" width="40" src="https://github.com/servandongti/servandongti/blob/main/nextjs.png">
+  <img align="center" alt="Nextjs" height="30" width="40" src="https://github.com/servandongti/servandongti/blob/main/Nextjs.png">
   <img align="center" alt="Tailwindcss" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -36,7 +36,13 @@ person("You")
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Php" height="30" width="40" src="https://github.com/servandongti/servandongti/blob/main/mysql.png">
+  <img align="center" alt="Mysql" height="30" width="40" src="https://github.com/servandongti/servandongti/blob/main/mysql.png">
+  <img align="center" alt="Firebse" height="30" width="40" src="https://github.com/servandongti/servandongti/blob/main/firebase.png">
+  <img align="center" alt="Supabse" height="30" width="40" src="https://github.com/servandongti/servandongti/blob/main/supabase.png">
+  <img align="center" alt="Aws" height="30" width="40" src="https://github.com/servandongti/servandongti/blob/main/aws.png">
+  <img align="center" alt="Aws" height="30" width="40" src="https://github.com/servandongti/servandongti/blob/main/aws.png">
+  <img align="center" alt="Azure" height="30" width="40" src="https://github.com/servandongti/servandongti/blob/main/azure.png">
+  <img align="center" alt="Google" height="30" width="40" src="https://github.com/servandongti/servandongti/blob/main/google%20cloud.png">
 </div><br>
 
 ##
