@@ -38,7 +38,6 @@ person("You")
   <img align="center" alt="Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Mysql" height="30" width="40" src="https://github.com/servandongti/servandongti/blob/main/mysql.png">
   <img align="center" alt="Firebse" height="30" width="40" src="https://github.com/servandongti/servandongti/blob/main/firebase.png">
-  <img align="center" alt="Supabse" height="30" width="40" src="https://github.com/servandongti/servandongti/blob/main/supabase.png">
 </div><br>
 
 ##
