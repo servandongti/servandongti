@@ -1,5 +1,4 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=hello,+I'm+Servando)
-
 ## 
 ```python
 def is_cool(name):
