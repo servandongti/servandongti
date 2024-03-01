@@ -13,25 +13,6 @@ def person(name):
 person("I")
 person("You")
 ```
-## 
-<div align="center" valign="top"><br>
-  <img align="center" alt="Nextjs" height="30" width="40" src="https://github.com/servandongti/servandongti/blob/main/njs.png">
-  <img align="center" alt="Tailwindcss" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Figma" height="30" width="40" src="https://github.com/servandongti/servandongti/blob/main/Figma.png">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="C++" height="30" width="40" src="https://github.com/Benio101/cpp-logo/blob/master/cpp_logo.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Mysql" height="30" width="40" src="https://github.com/servandongti/servandongti/blob/main/mysql.png">
-  <img align="center" alt="Firebse" height="30" width="40" src="https://github.com/servandongti/servandongti/blob/main/firebase.png">
-</div><br>
 
 ##
 <p align="center"> 
